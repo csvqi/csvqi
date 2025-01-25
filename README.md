@@ -1,4 +1,7 @@
-## Hi there 👋
+# About Me
+- 🌱 I’m currently learning basic Github stuffs
+- 📫 How to reach me: zippo_cao@qq.com
+- ⚡ My interests: Football, Poker, Reading and Travlling
 
 <!--
 **csvqi/csvqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
